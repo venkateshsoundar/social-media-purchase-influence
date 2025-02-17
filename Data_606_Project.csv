@@ -1,0 +1,93 @@
+,age_group,gender,social_media_hours_per_day,most_frequent_platform,platform_usage_frequency,ad_frequency_on_social_media,influencer_promotions_frequency,purchased_after_seeing_on_social_media,unplanned_purchases_after_social_media,regret_impulsive_purchases,content_type_influences_purchasing,limited_time_offer_purchases,product_comparison_before_purchasing,comparison_factor,purchased_to_fit_in_with_trends,peer_influence_on_purchasing,social_media_increases_spending,payment_method,exceed_budget_due_to_social_media,loan_for_social_media_purchases,trustworthiness_of_social_media_ads,influencer_vs_brand_ads_trust
+0,Above 55,Female,Less than 1 hour,Facebook,Daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Not Applicable,No,Never,1,Personal Income,Never,No,1,Neither
+1,37 - 54,Female,1 - 4 hours,Youtube,Daily,Almost every time,Frequently,0,Rarely,No,Advertisements,Rarely,Yes,Reviews,No,Never,3,Personal Income,Never,No,3,Neither
+2,Above 55,Female,Less than 1 hour,Facebook,Daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Not Applicable,No,Never,1,Personal Income,Never,No,1,Neither
+3,Above 55,Male,1 - 4 hours,Instagram,Daily,Occasionally,Frequently,3-5,Occasionally,Yes,Peer reviews,Sometimes,Yes,Reviews,No,Occasionally,4,Credit Card,Occasionally,No,3,Brand accounts
+4,18 - 36,Male,1 - 4 hours,Instagram,Multiple times daily,Occasionally,Occasionally,1-2,Never,No,"Advertisements, Influencer Posts",Rarely,Yes,Price,Yes,Rarely,3,Personal Income,Rarely,No,3,Influencers
+5,18 - 36,Male,4 - 7 hours,Instagram,Multiple times daily,Frequently,Frequently,0,Rarely,No,"Advertisements, Influencer Posts",Sometimes,Yes,Price,No,Occasionally,3,Parental Support,Occasionally,No,3,Neither
+6,Below 18,Male,1 - 4 hours,Snapchat,Daily,Frequently,Occasionally,1-2,Rarely,No,Peer Reviews,Sometimes,Yes,Reviews,No,Occasionally,4,Parental Support,Rarely,No,3,Brand accounts
+7,37 - 54,Female,Less than 1 hour,Facebook,Daily,Occasionally,Frequently,0,Rarely,No,"Advertisements, ",Rarely,Yes,Everything - price brand durability ,No,Never,2,"Credit Card, Savings",Never,No,3,Neither
+8,Above 55,Male,1 - 4 hours,YouTube,Occasionally,Rarely,Rarely,1-2,Rarely,No,Peer Reviews,Sometimes,No,Not Applicable,No,Rarely,2,Savings,Never,No,2,Brand accounts
+9,18 - 36,Female,1 - 4 hours,Reddit,Occasionally,Frequently,Occasionally,0,Rarely,Yes,Detailed unsponsored reviews,Never,Yes,Reviews,No,Rarely,5,Credit Card,Rarely,No,1,Neither
+10,Above 55,Male,Less than 1 hour,LinkedIn,Rarely,Rarely,Rarely,0,Never,No,Brand posts,Never,No,Brand reputation,No,Never,1,Savings,Never,No,1,Neither
+11,18 - 36,Female,1 - 4 hours,WhatsApp,Daily,Occasionally,Occasionally,0,Rarely,Yes,"Advertisements, Influencer Posts",Often,Yes,Reviews,No,Rarely,5,"Personal Income, Savings",Occasionally,No,3,Brand accounts
+12,Below 18,Female,1 - 4 hours,Youtube,Daily,Almost every time,Rarely,1-2,Rarely,No,Advertisements,Sometimes,Yes,Reviews,No,Never,3,Parental Support,Frequently,No,3,Influencers
+13,37 - 54,Female,4 - 7 hours,Facebook,Daily,Frequently,Occasionally,0,Rarely,Yes,Advertisements,Sometimes,Yes,Brand Reputation,Yes,Occasionally,3,Savings,Occasionally,No,2,Brand accounts
+14,Above 55,Female,Less than 1 hour,Facebook,Daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Not Applicable,No,Never,1,Personal Income,Never,No,1,Neither
+15,Above 55,Male,1 - 4 hours,YouTube,Occasionally,Rarely,Rarely,1-2,Rarely,No,Peer Reviews,Sometimes,No,Not Applicable,No,Rarely,2,Savings,Never,No,2,Brand accounts
+16,18 - 36,Male,1 - 4 hours,Instagram,Multiple times daily,Almost every time,Frequently,0,Rarely,Yes,Brand Posts,Rarely,Yes,Price,No,Rarely,1,Personal Income,Never,No,3,Brand accounts
+17,37 - 54,Female,1 - 4 hours,Youtube,Daily,Almost every time,Frequently,0,Rarely,Yes,Advertisements,Sometimes,Yes,Reviews,No,Never,2,Personal Income,Never,No,2,Neither
+18,18 - 36,Male,More than 7 hours,Instagram,Multiple times daily,Almost every time,Almost every time,1-2,Rarely,No,"Influencer Posts, Peer Reviews",Sometimes,Yes,Price,Yes,Rarely,5,Personal Income,Never,No,4,Brand accounts
+19,Below 18,Female,1 - 4 hours,Instagram,Daily,Frequently,Almost every time,1-2,Occasionally,No,Peer Reviews,Sometimes,Yes,Price,Yes,Occasionally,5,Savings,Rarely,No,3,Influencers
+20,Above 55,Female,More than 7 hours,TikTok,Multiple times daily,Almost every time,Frequently,3-5,Occasionally,Yes,Advertisements,Often,Yes,Discounts,Yes,Frequently,5,Personal Income,Occasionally,No,4,Influencers
+21,18 - 36,Male,1 - 4 hours,Instagram,Multiple times daily,Almost every time,Almost every time,6-10,Rarely,No,Advertisements,Sometimes,Yes,Reviews,No,Rarely,3,"Personal Income, Credit Card",Occasionally,No,3,Brand accounts
+22,Below 18,Male,Less than 1 hour,Snapchat ,Multiple times daily,Frequently,Occasionally,0,Never,Yes,"Advertisements, Influencer Posts, Brand Posts",Sometimes,Yes,Price,Yes,Rarely,2,Parental Support,Rarely,No,2,Brand accounts
+23,18 - 36,Male,1 - 4 hours,Snapchat,Multiple times daily,Almost every time,Almost every time,1-2,Occasionally,Yes,Influencer Posts,Sometimes,Yes,Price,Yes,Occasionally,5,Personal Income,Occasionally,No,2,Influencers
+24,Below 18,Female,1 - 4 hours,Instagram,Daily,Frequently,Frequently,1-2,Rarely,Yes,"Influencer Posts, Peer Reviews",Rarely,No,Not Applicable,No,Rarely,3,Parental Support,Rarely,No,3,Brand accounts
+25,18 - 36,Female,1 - 4 hours,Instagram,Daily,Frequently,Occasionally,1-2,Rarely,Yes,Discount ,Sometimes,Yes,Price,No,Rarely,3,Personal Income,Rarely,No,3,Brand accounts
+26,18 - 36,Female,1 - 4 hours,Instagram,Daily,Frequently,Occasionally,1-2,Rarely,Yes,Discount ,Sometimes,Yes,Price,No,Rarely,3,Personal Income,Rarely,No,3,Brand accounts
+27,37 - 54,Male,1 - 4 hours,Youtube,Daily,Frequently,Occasionally,0,Never,No,Peer Reviews,Never,Yes,Reviews,No,Never,1,Credit Card,Never,No,1,Neither
+28,37 - 54,Female,1 - 4 hours,Youtube,Occasionally,Frequently,Frequently,1-2,Rarely,No,"Advertisements, Peer Reviews",Rarely,Yes,Price,Yes,Rarely,2,Personal Income,Rarely,No,4,Neither
+29,Below 18,Male,1 - 4 hours,YouTube,Daily,Frequently,Occasionally,1-2,Rarely,No,Peer Reviews,Sometimes,Yes,Reviews,No,Occasionally,4,Parental Support,Rarely,No,3,Brand accounts
+30,18 - 36,Male,1 - 4 hours,Youtube,Daily,Occasionally,Frequently,0,Occasionally,No,"Influencer Posts, Brand Posts",Sometimes,Yes,Brand Reputation,No,Rarely,3,"Personal Income, Parental Support",Never,No,3,Brand accounts
+31,Below 18,Female,1 - 4 hours,Youtube,Daily,Occasionally,Frequently,0,Rarely,No,Peer Reviews,Sometimes,Yes,Price,No,Rarely,3,Parental Support,Never,No,2,Brand accounts
+32,Below 18,Male,Less than 1 hour,Youtube,Rarely,Rarely,Rarely,1-2,Rarely,Yes,Advertisements,Never,Yes,Reviews,No,Rarely,3,"Personal Income, Parental Support",Never,No,5,Influencers
+33,Below 18,Female,4 - 7 hours,Instagram,Multiple times daily,Almost every time,Frequently,3-5,Occasionally,Yes,Influencer Posts,Often,Yes,Price,Yes,Frequently,5,Parental Support,Occasionally,No,4,Influencers
+34,18 - 36,Male,1 - 4 hours,Instagram,Multiple times daily,Frequently,Frequently,0,Never,No,Advertisements,Never,No,Not Applicable,No,Occasionally,3,Personal Income,Rarely,No,3,Neither
+35,Above 55,Female,Less than 1 hour,Youtube,Daily,Occasionally,Rarely,0,Rarely,No,"Advertisements, ",Rarely,Yes,Not Applicable,No,Rarely,1,Savings,Never,No,1,Neither
+36,Below 18,Female,4 - 7 hours,Snapchat,Daily,Frequently,Rarely,0,Never,No,Peer Reviews,Never,Yes,Brand Reputation,No,Rarely,5,Parental Support,Never,No,4,Brand accounts
+37,18 - 36,Female,Less than 1 hour,Instagram,Daily,Occasionally,Frequently,1-2,Rarely,No,Advertisements,Sometimes,Yes,Price,No,Never,1,Personal Income,Never,No,2,Brand accounts
+38,37 - 54,Male,1 - 4 hours,Youtube,Multiple times daily,Frequently,Almost every time,0,Never,No,"Advertisements, Peer Reviews",Rarely,Yes,Reviews,No,Never,2,Credit Card,Never,No,2,Neither
+39,37 - 54,Female,1 - 4 hours,Instagram,Daily,Frequently,Frequently,1-2,Rarely,No,Advertisements,Rarely,Yes,Brand Reputation,No,Never,2,Personal Income,Rarely,No,2,Brand accounts
+40,37 - 54,Female,Less than 1 hour,Youtube,Daily,Occasionally,Rarely,1-2,Rarely,No,"Advertisements, Brand Posts",Never,Yes,Price,No,Never,1,Personal Income,Never,No,1,Neither
+41,Below 18,Male,1 - 4 hours,Instagram,Daily,Almost every time,Rarely,1-2,Rarely,Yes,"Influencer Posts, Brand Posts",Rarely,Yes,Price,Yes,Frequently,4,Parental Support,Rarely,No,3,Influencers
+42,Below 18,Male,1 - 4 hours,YouTube,Daily,Frequently,Occasionally,1-2,Rarely,No,Peer Reviews,Sometimes,Yes,Reviews,No,Occasionally,4,Parental Support,Rarely,No,3,Brand accounts
+43,Above 55,Female,Less than 1 hour,Facebook,Daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Not Applicable,No,Never,1,Personal Income,Never,No,1,Neither
+44,37 - 54,Female,1 - 4 hours,Youtube,Multiple times daily,Occasionally,Frequently,0,Never,No,Peer Reviews,Often,No,Not Applicable,No,Occasionally,3,Personal Income,Never,No,1,Brand accounts
+45,18 - 36,Female,4 - 7 hours,Instagram,Multiple times daily,Almost every time,Almost every time,1-2,Rarely,No,"Peer Reviews, Brand Posts",Always,Yes,Price,No,Occasionally,3,Personal Income,Rarely,No,3,Brand accounts
+46,18 - 36,Female,1 - 4 hours,Youtube,Daily,Frequently,Frequently,1-2,Occasionally,Yes,Peer Reviews,Sometimes,Yes,Reviews,No,Occasionally,3,"Parental Support, Savings",Rarely,No,3,Neither
+47,Below 18,Male,1 - 4 hours,Instagram,Multiple times daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Price,No,Never,1,Parental Support,Never,No,2,Neither
+48,Below 18,Female,4 - 7 hours,Instagram,Multiple times daily,Almost every time,Frequently,3-5,Occasionally,Yes,Influencer Posts,Often,Yes,Price,Yes,Frequently,5,Parental Support,Occasionally,No,4,Influencers
+49,Below 18,Male,1 - 4 hours,Instagram,Multiple times daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Price,No,Never,1,Parental Support,Never,No,2,Neither
+50,Above 55,Male,1 - 4 hours,YouTube,Occasionally,Rarely,Rarely,1-2,Rarely,No,Peer Reviews,Sometimes,No,Not Applicable,No,Rarely,2,Savings,Never,No,2,Brand accounts
+51,18 - 36,Female,1 - 4 hours,Instagram,Daily,Almost every time,Frequently,1-2,Rarely,No,Advertisements,Rarely,Yes,Price,Yes,Rarely,1,Personal Income,Rarely,No,3,Brand accounts
+52,Above 55,Male,1 - 4 hours,YouTube,Occasionally,Rarely,Rarely,1-2,Rarely,No,Peer Reviews,Sometimes,No,Not Applicable,No,Rarely,2,Savings,Never,No,2,Brand accounts
+53,18 - 36,Male,4 - 7 hours,Instagram,Multiple times daily,Almost every time,Almost every time,1-2,Occasionally,Yes,"Peer Reviews, Brand Posts",Always,Yes,Brand Reputation,Yes,Frequently,5,"Personal Income, Credit Card",Frequently,No,3,Brand accounts
+54,Above 55,Female,Less than 1 hour,Facebook,Daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Not Applicable,No,Never,1,Personal Income,Never,No,1,Neither
+55,37 - 54,Male,1 - 4 hours,Youtube,Multiple times daily,Occasionally,Frequently,1-2,Rarely,Yes,Peer Reviews,Sometimes,Yes,Price,No,Occasionally,2,Personal Income,Never,No,1,Neither
+56,18 - 36,Male,More than 7 hours,Instagram,Multiple times daily,Almost every time,Almost every time,1-2,Rarely,No,"Influencer Posts, Peer Reviews",Sometimes,Yes,Price,Yes,Rarely,5,Personal Income,Never,No,4,Brand accounts
+57,37 - 54,Female,1 - 4 hours,Youtube,Daily,Almost every time,Frequently,0,Rarely,No,Advertisements,Rarely,Yes,Reviews,No,Never,3,Personal Income,Never,No,3,Neither
+58,Above 55,Male,4 - 7 hours,Twitter,Multiple times daily,Almost every time,Almost every time,6-10,Frequently,Yes,Influencer posts,Often,Yes,Discounts,Yes,Frequently,5,Personal Income,Frequently,Yes,4,Influencers
+59,18 - 36,Female,Less than 1 hour,Youtube,Daily,Frequently,Frequently,0,Never,No,Influencer Posts,Never,Yes,Reviews,No,Rarely,1,Savings,Never,No,2,Influencers
+60,18 - 36,Female,1 - 4 hours,Instagram,Multiple times daily,Frequently,Occasionally,0,Rarely,No,"Advertisements, Influencer Posts, Peer Reviews, Brand Posts",Sometimes,Yes,Price,No,Never,1,Personal Income,Never,No,2,Neither
+61,Above 55,Male,1 - 4 hours,YouTube,Occasionally,Rarely,Rarely,1-2,Rarely,No,Peer Reviews,Sometimes,No,Not Applicable,No,Rarely,2,Savings,Never,No,2,Brand accounts
+62,37 - 54,Female,1 - 4 hours,Instagram,Daily,Frequently,Frequently,1-2,Rarely,No,Advertisements,Rarely,Yes,Brand Reputation,No,Never,2,Personal Income,Rarely,No,2,Brand accounts
+63,37 - 54,Female,Less than 1 hour,Youtube,Daily,Almost every time,Occasionally,0,Never,No,Advertisements,Never,Yes,Price,No,Never,2,Credit Card,Never,No,1,Brand accounts
+64,37 - 54,Female,1 - 4 hours,Youtube,Occasionally,Frequently,Frequently,1-2,Rarely,No,"Advertisements, Peer Reviews",Rarely,Yes,Price,Yes,Rarely,2,Personal Income,Rarely,No,4,Neither
+65,Above 55,Female,Less than 1 hour,Facebook,Daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Not Applicable,No,Never,1,Personal Income,Never,No,1,Neither
+66,Below 18,Female,1 - 4 hours,Youtube,Daily,Occasionally,Frequently,0,Rarely,No,Peer Reviews,Sometimes,Yes,Price,No,Rarely,3,Parental Support,Never,No,2,Brand accounts
+67,Below 18,Male,1 - 4 hours,Instagram,Multiple times daily,Almost every time,Almost every time,3-5,Rarely,Yes,Influencer Posts,Often,Yes,Price,Yes,Occasionally,4,Personal Income,Occasionally,No,3,Influencers
+68,37 - 54,Female,1 - 4 hours,Youtube,Rarely,Frequently,Frequently,0,Never,Yes,Advertisements,Never,Yes,Reviews,No,Rarely,5,Credit Card,Rarely,No,2,Neither
+69,Below 18,Female,4 - 7 hours,Instagram,Multiple times daily,Almost every time,Frequently,3-5,Occasionally,Yes,Influencer Posts,Often,Yes,Price,Yes,Frequently,5,Parental Support,Occasionally,No,4,Influencers
+70,Above 55,Male,4 - 7 hours,Twitter,Multiple times daily,Almost every time,Almost every time,6-10,Frequently,Yes,Influencer posts,Often,Yes,Discounts,Yes,Frequently,5,Personal Income,Frequently,Yes,4,Influencers
+71,Below 18,Female,4 - 7 hours,Instagram,Multiple times daily,Almost every time,Frequently,3-5,Occasionally,Yes,Influencer Posts,Often,Yes,Price,Yes,Frequently,5,Parental Support,Occasionally,No,4,Influencers
+72,Below 18,Female,1 - 4 hours,Youtube,Daily,Occasionally,Frequently,0,Rarely,No,Peer Reviews,Sometimes,Yes,Price,No,Rarely,3,Parental Support,Never,No,2,Brand accounts
+73,37 - 54,Female,1 - 4 hours,Youtube,Multiple times daily,Occasionally,Frequently,0,Never,No,Peer Reviews,Often,No,Not Applicable,No,Occasionally,3,Personal Income,Never,No,1,Brand accounts
+74,18 - 36,Male,1 - 4 hours,Instagram,Multiple times daily,Occasionally,Occasionally,1-2,Never,No,"Advertisements, Influencer Posts",Rarely,Yes,Price,Yes,Rarely,3,Personal Income,Rarely,No,3,Influencers
+75,Above 55,Male,1 - 4 hours,YouTube,Occasionally,Rarely,Rarely,1-2,Rarely,No,Peer Reviews,Sometimes,No,Not Applicable,No,Rarely,2,Savings,Never,No,2,Brand accounts
+76,37 - 54,Female,Less than 1 hour,Facebook,Daily,Occasionally,Frequently,0,Rarely,No,"Advertisements, ",Rarely,Yes,Everything - price brand durability ,No,Never,2,"Credit Card, Savings",Never,No,3,Neither
+77,Above 55,Male,4 - 7 hours,Twitter,Multiple times daily,Almost every time,Almost every time,6-10,Frequently,Yes,Influencer posts,Often,Yes,Discounts,Yes,Frequently,5,Personal Income,Frequently,Yes,4,Influencers
+78,Below 18,Male,1 - 4 hours,Instagram,Daily,Almost every time,Rarely,1-2,Rarely,Yes,"Influencer Posts, Brand Posts",Rarely,Yes,Price,Yes,Frequently,4,Parental Support,Rarely,No,3,Influencers
+79,Below 18,Female,4 - 7 hours,Instagram,Multiple times daily,Almost every time,Frequently,3-5,Occasionally,Yes,Influencer Posts,Often,Yes,Price,Yes,Frequently,5,Parental Support,Occasionally,No,4,Influencers
+80,37 - 54,Female,Less than 1 hour,Youtube,Daily,Almost every time,Frequently,1-2,Occasionally,Yes,"Advertisements, Influencer Posts, Brand Posts",Sometimes,No,Not Applicable,No,Rarely,4,Savings,Occasionally,No,3,Brand accounts
+81,37 - 54,Female,1 - 4 hours,Instagram,Multiple times daily,Frequently,Frequently,3-5,Occasionally,No,Brand Posts,Never,No,Not Applicable,No,Occasionally,3,Personal Income,Occasionally,No,3,Neither
+82,Above 55,Male,Less than 1 hour,LinkedIn,Rarely,Rarely,Rarely,0,Never,No,Brand posts,Never,No,Brand reputation,No,Never,1,Savings,Never,No,1,Neither
+83,Above 55,Male,1 - 4 hours,Facebook,Daily,Occasionally,Occasionally,1-2,Rarely,No,Peer reviews,Sometimes,Yes,Reviews,No,Occasionally,4,Credit Card,Never,No,3,Brand accounts
+84,37 - 54,Male,1 - 4 hours,Facebook,Daily,Rarely,Rarely,1-2,Never,Yes,Brand Posts,Rarely,Yes,Price,No,Rarely,4,Savings,Occasionally,No,2,Influencers
+85,Below 18,Male,1 - 4 hours,Instagram,Multiple times daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Price,No,Never,1,Parental Support,Never,No,2,Neither
+86,18 - 36,Male,1 - 4 hours,Instagram,Multiple times daily,Almost every time,Almost every time,0,Never,No,"Advertisements, Peer Reviews",Sometimes,Yes,Price,Yes,Never,1,Parental Support,Rarely,No,1,Neither
+87,18 - 36,Female,1 - 4 hours,Instagram,Multiple times daily,Almost every time,Almost every time,0,Rarely,No,Advertisements,Rarely,Yes,Reviews,No,Rarely,3,Credit Card,Never,No,3,Brand accounts
+88,Above 55,Male,1 - 4 hours,YouTube,Occasionally,Rarely,Rarely,1-2,Rarely,No,Peer Reviews,Sometimes,No,Not Applicable,No,Rarely,2,Savings,Never,No,2,Brand accounts
+89,37 - 54,Female,1 - 4 hours,Youtube,Daily,Almost every time,Frequently,0,Rarely,No,Advertisements,Rarely,Yes,Reviews,No,Never,3,Personal Income,Never,No,3,Neither
+90,37 - 54,Female,Less than 1 hour,Youtube,Daily,Occasionally,Rarely,1-2,Rarely,No,"Advertisements, Brand Posts",Never,Yes,Price,No,Never,1,Personal Income,Never,No,1,Neither
+91,Above 55,Female,Less than 1 hour,Facebook,Daily,Occasionally,Rarely,0,Never,No,Advertisements,Never,No,Not Applicable,No,Never,1,Personal Income,Never,No,1,Neither
